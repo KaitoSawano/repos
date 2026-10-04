@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/fitecash/fitecash/master/share/pixmaps/fitecash256.svg" alt="Fitecash" width="256"/>
 <br/><br/>
-Fitecash Core [DOGE, Ð]  
+Fitecash Core [FITE, Ð]  
 </h1>
 
 **IMPORTANT: Starting August 2024, the `master` branch has become the primary
@@ -46,7 +46,7 @@ Main development resources:
   follow planned and in-progress work for upcoming releases.
 * [GitHub Discussions](https://github.com/fitecash/fitecash/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
-  the Fitecash Core software, the underlying protocols and the DOGE asset.
+  the Fitecash Core software, the underlying protocols and the FITE asset.
 
 ### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
