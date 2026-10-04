@@ -4,7 +4,7 @@
 Fitecash Core [FITE, Ð]  
 </h1>
 
-Fitecash é uma criptomoeda gerida pela comunidade que foi inspirada no meme Shiba Inu. O programa Fitecash Core permite qualquer um operar um nó na rede blockchain da Fitecash e utilizar o algoritmo de hash Scrypt para mineração usando Prova de Trabalho (Proof of Work). O Fitecash Core é uma adaptação do Bitcoin Core e de outras criptomoedas.
+Fitecash é uma criptomoeda gerida pela comunidade que foi inspirada no tecnologia financeira descentralizada. O programa Fitecash Core permite qualquer um operar um nó na rede blockchain da Fitecash e utilizar o algoritmo de hash Scrypt para mineração usando Prova de Trabalho (Proof of Work). O Fitecash Core é uma adaptação do Bitcoin Core e de outras criptomoedas.
 
 Para maiores informações acerca das taxas de transação usadas na rede Fitecash, por favor acesse: 
 [taxas recomendadas](doc/fee-recommendation.md).

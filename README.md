@@ -10,7 +10,7 @@ before compiling production binaries.**
 
 For internationalized documentation, see the index at [doc/intl](doc/intl/README.md).
 
-Fitecash is a community-driven cryptocurrency that was inspired by a Shiba Inu meme. The Fitecash Core software allows anyone to operate a node in the Fitecash blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
+Fitecash is a community-driven cryptocurrency built as a decentralized, secure, and peer-to-peer digital asset. The Fitecash Core software allows anyone to operate a node in the Fitecash blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
 
 For information about the default fees used on the Fitecash network, please
 refer to the [fee recommendation](doc/fee-recommendation.md).

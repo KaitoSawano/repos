@@ -3,7 +3,7 @@ name: fitecash-core
 version: '1.14.6'
 summary: Reference client of Fitecash, a peer-to-peer digital currency like Bitcoin.
 description: |
-  Fitecash is a community-driven cryptocurrency that was inspired by a Shiba Inu meme. The Fitecash Core software allows anyone to operate a node in the Fitecash blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
+  Fitecash is a community-driven cryptocurrency built as a decentralized, secure, and peer-to-peer digital asset. The Fitecash Core software allows anyone to operate a node in the Fitecash blockchain networks and uses the Scrypt hashing method for Proof of Work. It is adapted from Bitcoin Core and other cryptocurrencies.
 
 grade: stable
 confinement: strict

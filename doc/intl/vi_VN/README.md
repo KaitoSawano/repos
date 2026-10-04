@@ -4,7 +4,7 @@
 Fitecash Core [FITE, Ð]  
 </h1>
 
-Fitecash là một loại tiền điện tử hướng tới cộng đồng được lấy cảm hứng từ meme Shiba Inu. Phần mềm Fitecash Core cho phép bất kỳ ai vận hành node trong Fitecash blockchain networks và sử dụng phương pháp băm Scrypt cho Proof of Work. Nó được điều chỉnh từ Bitcoin Core và các loại tiền điện tử khác.
+Fitecash là một loại tiền điện tử hướng tới cộng đồng được lấy cảm hứng từ tecnologia financeira descentralizada. Phần mềm Fitecash Core cho phép bất kỳ ai vận hành node trong Fitecash blockchain networks và sử dụng phương pháp băm Scrypt cho Proof of Work. Nó được điều chỉnh từ Bitcoin Core và các loại tiền điện tử khác.
 
 Để biết thông tin về các khoản phí mặc định được sử dụng trên Fitecash network, vui lòng
 tham khảo [khuyến nghị phí](doc/fee-recommendation.md).
