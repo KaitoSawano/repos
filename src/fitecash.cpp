@@ -122,7 +122,7 @@ bool CheckAuxPowProofOfWork(const CBlockHeader& block, const Consensus::Params& 
     return true;
 }
 
-CAmount GetFitecashBlockSubsidy(int nHeight, const Consensus::Params& consensusParams)
+CAmount GetFitecashBlockSubsidy(int nHeight, const Consensus::Params& consensusParams, uint256 prevHash)
 {
     int halvings = nHeight / consensusParams.nSubsidyHalvingInterval;
     // Force block reward to zero when right shift is undefined.
@@ -130,7 +130,7 @@ CAmount GetFitecashBlockSubsidy(int nHeight, const Consensus::Params& consensusP
         return 0;
 
     CAmount nSubsidy = 50 * COIN;
-    // Subsidy is cut in half every 210,000 blocks which will occur approximately every 4 years.
+    // Subsidy is cut in half every 2410000 blocks
     nSubsidy >>= halvings;
     return nSubsidy;
 }
