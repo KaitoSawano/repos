@@ -18,7 +18,7 @@ Fitecash Core
 
 ## What is Fitecash?
 
-**Termucash (FITE)** is an innovative, decentralized cryptocurrency designed to function as a primary medium of exchange. Fitecash provides a secure, transparent, and immutable ledger for global peer-to-peer transactions.
+**Fitecash (FITE)** is an innovative, decentralized cryptocurrency designed to function as a primary medium of exchange. Fitecash provides a secure, transparent, and immutable ledger for global peer-to-peer transactions.
 
 The mission of Fitecash is to provide a functional alternative to traditional currencies by offering a scalable payment infrastructure that is not controlled by any central authority. 
 
