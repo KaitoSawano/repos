@@ -1,6 +1,6 @@
 <img align="right" width="120" height="80" src="share/pixmaps/nsis-header.bmp">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/fitecash/fitecash/master/share/pixmaps/fitecash256.svg" alt="Fitecash" width="256"/>
+<img src="https://raw.githubusercontent.com/fitecash/fitecash/master/share/pixmaps/fitecash.ico" alt="Fitecash" width="256"/>
 <br/><br/>
 Fitecash Core  
 </h1>
