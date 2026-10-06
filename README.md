@@ -26,7 +26,7 @@ The mission of Fitecash is to provide a functional alternative to traditional cu
 Fitecash operates on a distributed network of nodes. Every node maintains a full copy of the blockchain, ensuring that the history of all transactions is transparent and verifiable by anyone, anywhere.
 
 ### Transaction Processing & Settlement
-Unlike slower legacy systems, Termucash is engineered for speed. With a **2.5 minute block time**, transactions are confirmed and settled across the network rapidly. This makes it a viable tool for real-world merchant payments and rapid digital transfers.
+Unlike slower legacy systems, Fitecash is engineered for speed. With a **2.5 minute block time**, transactions are confirmed and settled across the network rapidly. This makes it a viable tool for real-world merchant payments and rapid digital transfers.
 
 ### Network Security
 The network is secured via the **Scrypt Algorithm**. Miners provide computational power to validate transactions and secure the blockchain against double-spending attacks. In exchange for this work, miners receive a block reward, ensuring a fair and decentralized distribution of the currency.
