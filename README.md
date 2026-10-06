@@ -65,7 +65,7 @@ Main development resources:
   follow planned and in-progress work for upcoming releases.
 * [GitHub Discussions](https://github.com/fitecash/fitecash/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
-  the Fitecash Core software, the underlying protocols and the TERM asset.
+  the Fitecash Core software, the underlying protocols and the FITE asset.
 
 ### Branches
 There are 4 types of branches in this repository:
