@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/fitecash/fitecash/master/share/pixmaps/fitecash256.svg" alt="Fitecash" width="256"/>
 <br/><br/>
-Fitecash Core [FITE, Ð]  
+Fitecash Core [FITE, ]  
 </h1>
 
 Fitecash là một loại tiền điện tử hướng tới cộng đồng được lấy cảm hứng từ tecnologia financeira descentralizada. Phần mềm Fitecash Core cho phép bất kỳ ai vận hành node trong Fitecash blockchain networks và sử dụng phương pháp băm Scrypt cho Proof of Work. Nó được điều chỉnh từ Bitcoin Core và các loại tiền điện tử khác.

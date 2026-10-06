@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/fitecash/fitecash/master/share/pixmaps/fitecash256.svg" alt="Fitecash" width="256"/>
 <br/><br/>
-Fitecash Core [FITE, Ð]  
+Fitecash Core [FITE, ]  
 </h1>
 
 دوج‌کوین (Fitecash) یک رمزارز مبتنی بر عموم مردم بوده که از یک

@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/fitecash/fitecash/master/share/pixmaps/fitecash256.svg" alt="Fitecash" width="256"/>
 <br/><br/>
-Fitecash Core [FITE, Ð]  
+Fitecash Core [FITE, ]  
 </h1>
 
 Fitecash é uma criptomoeda gerida pela comunidade que foi inspirada no tecnologia financeira descentralizada. O programa Fitecash Core permite qualquer um operar um nó na rede blockchain da Fitecash e utilizar o algoritmo de hash Scrypt para mineração usando Prova de Trabalho (Proof of Work). O Fitecash Core é uma adaptação do Bitcoin Core e de outras criptomoedas.
