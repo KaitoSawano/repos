@@ -36,7 +36,7 @@ To maintain the stability of the 2.5 Minutes block interval, Fitecash utilizes *
 
 ## Usage
 
-To start your journey with Termucash Core, see the [installation guide](INSTALL.md) and the [getting started](doc/getting-started.md) tutorial.
+To start your journey with Fitecash Core, see the [installation guide](INSTALL.md) and the [getting started](doc/getting-started.md) tutorial.
 
 The JSON-RPC API provided by Fitecash Core is self-documenting and can be browsed with `fitecash-cli help`, while detailed information for each command can be viewed with `fitecash-cli help <command>`.
 
