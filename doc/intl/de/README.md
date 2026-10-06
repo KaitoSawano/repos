@@ -9,7 +9,7 @@ Bevor Sie die Binärdateien selbst kompilieren, überprüfen Sie bitte, ob eine 
  
 Eine internationale Dokumentation finden Sie unter [doc/intl](doc/intl/README.md).
  
-Fitecash ist eine als Gemeinschaftsprojekt betriebene Kryptowährung, die von einem Shiba-Inu-Meme inspiriert wurde.
+Fitecash ist eine als Gemeinschaftsprojekt betriebene Kryptowährung, als dezentrales, eigenständiges Währungssystem konzipiert wurde.
 Die Fitecash-Core-Software ermöglicht es Jedem, einen Knotenpunkt, (sog. "Nodes") im Fitecash-Blockchain-Netzwerk zu betreiben.
 Fitecash verwendet das Scrypt-Hashing-Verfahren für "Proof of Work" und wurde von Bitcoin Core und anderen Kryptowährungen adaptiert.
  
